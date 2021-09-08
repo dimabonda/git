@@ -1,0 +1,3 @@
+let mike = {
+    name : 'mike'
+}
