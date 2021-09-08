@@ -1,0 +1,3 @@
+let dima = {
+    name: dima
+}
